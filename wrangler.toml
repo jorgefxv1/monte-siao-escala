@@ -1,0 +1,5 @@
+name = "monte-siao-escala"
+compatibility_date = "2026-06-05"
+
+[assets]
+directory = "./dist"
